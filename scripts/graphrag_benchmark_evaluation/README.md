@@ -33,7 +33,7 @@ data/
 
 ## 2) Build the KG index
 
-You can run indexing yourself or use our prebuilt KG indices. Download our prebuilt KG indices from [here](https://drive.google.com/file/d/12kcmz62HMRxuXhKKMrstHUDgRu6AwNUD/view?usp=sharing).
+You can run indexing yourself or use our prebuilt KG indices. Download our prebuilt KG indices from [here](https://1drv.ms/u/c/cb4bbdfe5951d1a1/IQBJXhHkEFY6TJVIX2OSVCPyAd-yP8q3VJn7IqbpdbrX2a8?e=bvgg4G).
 
 To build KG indices locally, create `nodes.csv`, `edges.csv`, `relations.csv`, and processed `test.json` for each dataset running the following script.
 
@@ -55,7 +55,7 @@ data/<dataset>/processed/stage1/
 
 The QA scripts need retrieval results per dataset with top documents and entities for each question.
 
-You can either run retrieval yourself or use our precomputed results. Download our precomputed retrieval results from [here](https://drive.google.com/file/d/12kcmz62HMRxuXhKKMrstHUDgRu6AwNUD/view?usp=sharing).
+You can either run retrieval yourself or use our precomputed results. Download our precomputed retrieval results from [here](https://1drv.ms/u/c/cb4bbdfe5951d1a1/IQBJXhHkEFY6TJVIX2OSVCPyAd-yP8q3VJn7IqbpdbrX2a8?e=bvgg4G).
 
 To generate retrieval results locally using GFM-RAG running the following script:
 
